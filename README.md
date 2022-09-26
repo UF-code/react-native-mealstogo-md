@@ -6,5 +6,10 @@
 ## Enviroments
 > Snack Expo, NodeJs, Android Emulator
 
+## Project Setup & How To Compile n Run
+```
+yarn & yarn start
+```
+
 ### Video Representation
 https://user-images.githubusercontent.com/67328993/173248551-238e971f-6b07-4b80-b9e6-d107bd43405f.mp4
